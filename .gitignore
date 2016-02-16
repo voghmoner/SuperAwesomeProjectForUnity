@@ -4,9 +4,17 @@ ehthumbs.db
 
 # Folder config file
 Desktop.ini
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+AssetStoreTools*
+Library/*
 
 # Recycle Bin used on file shares
-$RECYCLE.BIN/
+RECYCLE.BIN/
+
 
 # Windows Installer files
 *.cab
@@ -31,13 +39,9 @@ $RECYCLE.BIN/
 # Thumbnails
 ._*
 
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
+# Files that might appear on external disk
 .Spotlight-V100
-.TemporaryItems
 .Trashes
-.VolumeIcon.icns
 
 # Directories potentially created on remote AFP share
 .AppleDB
